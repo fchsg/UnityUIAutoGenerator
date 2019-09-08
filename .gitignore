@@ -1,0 +1,7 @@
+﻿UnityUIAutoGenerator/.idea
+UnityUIAutoGenerator/Assets/Plugins/Editor/JetBrains
+UnityUIAutoGenerator/Assets/Plugins/Editor/JetBrains.meta
+UnityUIAutoGenerator/Library
+UnityUIAutoGenerator/UIGenerator.sln
+UnityUIAutoGenerator/Assembly-CSharp.csproj
+*.csproj
